@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "web-static-deploy": "^1.1.4"
+  }
+}
